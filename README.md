@@ -1,1 +1,1 @@
-"# nextjs-template-v12" 
+# Next JS v12 Template
